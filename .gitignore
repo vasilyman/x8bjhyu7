@@ -1,0 +1,7 @@
+# ignore all by default
+/*
+
+# except specified:
+!/.gitignore
+!/index.js
+!/package.json
