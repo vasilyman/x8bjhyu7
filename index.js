@@ -9,7 +9,7 @@ const printNum = (num) => {
 const printNumDebounced = debounce(printNum, 200);
 
 const start = () => {
-    console.log('Hello world!');
+    console.log('Привет мир!');
 
     let i = 1;
 
